@@ -1,0 +1,13 @@
+rootProject.name = "poc-modulo"
+include ':app'
+include ':detail-private'
+include ':detail-public'
+include ':pokemon-private'
+include ':pokemon-public'
+include ':shared-service'
+include ':shared-common'
+include ':unit-test'
+include ':navigation'
+include ':storage'
+include ':shared-domain'
+include ':dynamicfeature'
